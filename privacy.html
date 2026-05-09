@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" data-i18n-title="privacy.privacy_policy" content="Kalana 隐私协议 - 了解我们如何收集、使用和保护您的个人数据。">
+  <meta name="theme-color" content="#FA9FAE">
+  <title data-i18n="privacy.title">隐私协议 - Kalana</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="container">
+      <a href="index.html" class="nav-logo">
+        <img src="assets/images/logo/kalana.png" alt="Kalana Logo" style="width: 32px; height: 32px; object-fit: contain;">
+        <span>Kalana</span>
+      </a>
+      <div class="nav-toggle" onclick="toggleMobileMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <div class="nav-links" id="navLinks">
+        <a href="index.html" data-i18n="nav.home">首页</a>
+        <a href="privacy.html" class="active" data-i18n="nav.privacy">隐私协议</a>
+        <a href="terms.html" data-i18n="nav.terms">用户政策</a>
+        <a href="support.html" data-i18n="nav.support">技术支持</a>
+      </div>
+      <div class="navbar-right">
+        <div class="language-selector" id="language-selector">
+          <button class="language-btn" onclick="toggleLanguageDropdown()" type="button">
+            <span class="current-lang">🌐 Language</span>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z" fill="currentColor"/>
+            </svg>
+          </button>
+          <div class="lang-dropdown"></div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Legal Page Content -->
+  <main class="legal-page">
+    <div class="container">
+      <div class="legal-container">
+        <header class="legal-header">
+          <h1 data-i18n="privacy.title">隐私协议</h1>
+          <p class="text-secondary" data-i18n="privacy.last_updated">最后更新日期：2026年5月9日</p>
+        </header>
+
+        <div class="legal-content">
+          <h2 data-i18n="privacy.intro_title">简介</h2>
+          <p data-i18n="privacy.intro_p1">Kalana（"我们"、"我们的"或"Kalana"）非常重视您的隐私。本隐私协议解释了当您使用 Kalana 应用时，我们如何收集、使用、披露和保护您的信息。请仔细阅读本协议，了解我们关于您个人信息的做法。</p>
+          <p data-i18n="privacy.intro_p2">通过下载或使用 Kalana，您同意接受本隐私协议中描述的实践。如果您不同意本协议的任何条款，请不要使用我们的应用。</p>
+
+          <h2 data-i18n="privacy.data_collected_title">我们收集的信息</h2>
+          <h3 data-i18n="privacy.data_provided_title">您提供的信息</h3>
+          <ul>
+            <li data-i18n-html="privacy.data_provided_l1"><strong>账户信息：</strong>当您创建 Kalana 账户时，您可能需要提供基本信息，如您的姓名（可选）和 iCloud 账户信息。</li>
+            <li data-i18n-html="privacy.data_provided_l2"><strong>账本数据：</strong>您在使用 Kalana 时创建的所有账本数据，包括交易记录、分类、成员信息、预算设置等。</li>
+            <li data-i18n-html="privacy.data_provided_l3"><strong>通讯录信息：</strong>如果您选择邀请他人加入账本，我们会访问您的通讯录以便您选择邀请对象。</li>
+          </ul>
+
+          <h3 data-i18n="privacy.data_auto_title">自动收集的信息</h3>
+          <ul>
+            <li data-i18n-html="privacy.data_auto_l1"><strong>设备信息：</strong>包括设备类型、操作系统版本、设备标识符等，用于故障排除和优化应用体验。</li>
+            <li data-i18n-html="privacy.data_auto_l2"><strong>使用数据：</strong>关于您如何使用 Kalana 的匿名统计数据，帮助我们改进产品功能。</li>
+            <li data-i18n-html="privacy.data_auto_l3"><strong>日志数据：</strong>应用运行时产生的技术日志，用于诊断问题和监控应用健康状态。</li>
+          </ul>
+
+          <h2 data-i18n="privacy.data_storage_title">数据存储与安全</h2>
+          <p data-i18n="privacy.data_storage_p">我们采用 Apple 的 CloudKit 服务来存储和管理您的数据。以下是我们数据安全措施的说明：</p>
+          <ul>
+            <li data-i18n-html="privacy.data_storage_l1"><strong>iCloud 存储：</strong>您的账本数据存储在您的个人 iCloud 账户中，由 Apple 的安全基础设施保护。</li>
+            <li data-i18n-html="privacy.data_storage_l2"><strong>数据加密：</strong>数据在传输过程中使用 TLS/SSL 加密，存储时使用 AES-128 或更强的加密标准。</li>
+            <li data-i18n-html="privacy.data_storage_l3"><strong>区域存储：</strong>您的数据会根据您的 iCloud 设置存储在相应的数据中心。</li>
+            <li data-i18n-html="privacy.data_storage_l4"><strong>访问控制：</strong>只有您和您明确授权的账本成员可以访问相关数据。</li>
+          </ul>
+
+          <div class="highlight-box">
+            <p data-i18n-html="privacy.important_note"><strong>重要提示：</strong>我们作为应用开发者，无法直接访问您存储在 iCloud 中的账本数据。您的数据完全由您和 Apple 的安全系统控制。</p>
+          </div>
+
+          <h2 data-i18n="privacy.data_usage_title">数据使用目的</h2>
+          <p data-i18n="privacy.data_usage_title">我们收集的信息用于以下目的：</p>
+          <ul id="usage-list">
+            <!-- Populated by i18n.js -->
+          </ul>
+
+          <h2 data-i18n="privacy.data_sharing_title">数据共享与披露</h2>
+          <h3 data-i18n="privacy.no_sell_title">我们不会出售您的数据</h3>
+          <p data-i18n="privacy.no_sell_p">我们不会将您的个人信息出售给任何第三方广告商或数据经纪商。</p>
+
+          <h3 data-i18n="privacy.shared_members_title">共享账本成员</h3>
+          <p data-i18n="privacy.shared_members_p">当您邀请他人加入您的账本时，您明确同意与他们共享该账本中的相关数据。共享的内容取决于您的邀请设置。</p>
+
+          <h3 data-i18n="privacy.providers_title">服务提供商</h3>
+          <p data-i18n="privacy.providers_p">我们可能使用第三方服务提供商来支持我们的业务运营，包括：</p>
+          <ul>
+            <li data-i18n="privacy.providers_l1">Apple（CloudKit 服务提供商）</li>
+            <li data-i18n="privacy.providers_l2">应用分析和崩溃报告服务</li>
+          </ul>
+          <p data-i18n="privacy.providers_p2">这些提供商有义务保护您的信息，并仅按照我们的指示使用数据。</p>
+
+          <h3 data-i18n="privacy.legal_title">法律要求</h3>
+          <p data-i18n="privacy.legal_p">在法律要求的情况下，如响应法院命令、执法机构请求或保护我们的合法权益时，我们可能会披露您的信息。</p>
+
+          <h2 data-i18n="privacy.your_rights_title">您的权利</h2>
+          <p data-i18n="privacy.your_rights_p">您对您的数据拥有以下权利：</p>
+          <ul>
+            <li data-i18n-html="privacy.your_rights_l1"><strong>访问权：</strong>您可以随时通过 Kalana 应用访问您的所有数据。</li>
+            <li data-i18n-html="privacy.your_rights_l2"><strong>更正权：</strong>您可以更正或更新您的个人信息。</li>
+            <li data-i18n-html="privacy.your_rights_l3"><strong>删除权：</strong>您可以删除您的账户和所有相关数据。删除账户后，您的数据将从我们的服务中永久移除。</li>
+            <li data-i18n-html="privacy.your_rights_l4"><strong>导出权：</strong>您可以导出您的账本数据为通用格式（如 CSV）。</li>
+            <li data-i18n-html="privacy.your_rights_l5"><strong>撤回同意权：</strong>您可以撤回对非必要数据收集的同意。</li>
+          </ul>
+
+          <h2 data-i18n="privacy.children_title">儿童隐私</h2>
+          <p data-i18n="privacy.children_p">Kalana 不面向 13 岁以下的儿童，我们不会故意收集儿童的个人信息。如果您认为我们错误地收集了儿童的信息，请联系我们，我们会立即删除相关数据。</p>
+
+          <h2 data-i18n="privacy.third_party_title">第三方链接和服务</h2>
+          <p data-i18n="privacy.third_party_p">Kalana 可能包含指向第三方网站或服务的链接。本隐私协议不适用于这些第三方服务。我们建议您查看这些第三方服务的隐私政策。</p>
+
+          <h2 data-i18n="privacy.updates_title">本协议的更新</h2>
+          <p data-i18n="privacy.updates_p">我们可能会不时更新本隐私协议。当我们进行重大更改时，我们会：</p>
+          <ul id="updates-list">
+            <!-- Populated by i18n.js -->
+          </ul>
+          <p data-i18n="privacy.updates_p2">继续使用 Kalana 即表示您接受更新后的协议。</p>
+
+          <h2 data-i18n="privacy.contact_title">联系我们</h2>
+          <p data-i18n="privacy.contact_p">如果您对本隐私协议有任何疑问、担忧或请求，请通过以下方式联系我们：</p>
+          <div class="highlight-box">
+            <p><strong data-i18n="privacy.contact_email">电子邮件：</strong><a href="mailto:lkx7312172@gmail.com">lkx7312172@gmail.com</a></p>
+          </div>
+          <p data-i18n="privacy.contact_p2">我们将在合理的时间内回复您的请求。</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h4>Kalana</h4>
+          <p class="text-secondary text-small" data-i18n="features.subtitle">多人共享记账，让财务记录变得简单。</p>
+        </div>
+        <div class="footer-section">
+          <h4 data-i18n="footer.product">产品</h4>
+          <ul>
+            <li><a href="index.html#features" data-i18n="footer.features">功能特点</a></li>
+            <li><a href="index.html#download" data-i18n="footer.download">下载</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h4 data-i18n="footer.legal">法律</h4>
+          <ul>
+            <li><a href="privacy.html" data-i18n="footer.privacy_policy">隐私协议</a></li>
+            <li><a href="terms.html" data-i18n="footer.terms_of_service">用户政策</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h4 data-i18n="footer.support">支持</h4>
+          <ul>
+            <li><a href="support.html" data-i18n="nav.support">技术支持</a></li>
+            <li><a href="mailto:lkx7312172@gmail.com" data-i18n="footer.contact_us">联系我们</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p data-i18n="footer.copyright">© 2026 Kalana. 保留所有权利。</p>
+        <div class="footer-links">
+          <a href="mailto:lkx7312172@gmail.com">lkx7312172@gmail.com</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

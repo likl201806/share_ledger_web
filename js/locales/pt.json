@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "lang": "pt",
+    "langName": "Português",
+    "langFlag": "🇧🇷"
+  },
+  "nav": {
+    "home": "Início",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "support": "Suporte",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Contabilidade compartilhada, vida simplificada",
+    "subtitle": "Kalana torna a contabilidade compartilhada fácil para todos. Com sincronização iCloud em tempo real, gerencie as finanças do grupo em qualquer lugar.",
+    "download": "Baixar agora",
+    "learnMore": "Saiba mais"
+  },
+  "features": {
+    "title": "Por que escolher Kalana",
+    "subtitle": "Design elegante, funcionalidades poderosas - faça da contabilidade um prazer",
+    "icloud_title": "Sincronização iCloud em tempo real",
+    "icloud_desc": "Usando tecnologia Apple CloudKit, seus dados são armazenados com segurança no iCloud com sincronização multi-dispositivo.",
+    "multiuser_title": "Livros compartilhados",
+    "multiuser_desc": "Convide familiares, amigos ou colegas para gerenciar juntos. Veja gastos dos membros em tempo real.",
+    "report_title": "Análise de relatórios inteligentes",
+    "report_desc": "Geração automática de relatórios mensais e anuais com tendências claras de receitas/despesas.",
+    "calendar_title": "Visualização de calendário",
+    "calendar_desc": "Visualize receitas e despesas diárias no formato de calendário.",
+    "budget_title": "Alertas de orçamento",
+    "budget_desc": "Defina metas mensais e receba notificações quando se aproximar do limite.",
+    "privacy_title": "Privacidade em primeiro lugar",
+    "privacy_desc": "Seus dados financeiros são armazenados apenas na sua conta iCloud pessoal."
+  },
+  "download": {
+    "title": "Começar",
+    "subtitle": "Baixe Kalana na App Store e comece sua jornada de contabilidade compartilhada inteligente",
+    "appstore": "Baixar na App Store",
+    "googleplay": "Em breve no Google Play",
+    "coming_soon": "Em breve"
+  },
+  "footer": {
+    "product": "Produto",
+    "features": "Funcionalidades",
+    "download": "Baixar",
+    "legal": "Legal",
+    "privacy_policy": "Política de Privacidade",
+    "terms_of_service": "Termos de Serviço",
+    "support": "Suporte",
+    "contact_us": "Contate-nos",
+    "copyright": "© 2026 Kalana. Todos os direitos reservados."
+  },
+  "screenshots": {
+    "title": "Capturas de tela",
+    "calendar": "Calendário",
+    "report": "Relatórios",
+    "add_transaction": "Adicionar",
+    "members": "Membros",
+    "settings": "Configurações"
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "last_updated": "Última atualização: 9 de maio de 2026",
+    "intro_title": "Introdução",
+    "intro_p1": "Kalana (\"nós\", \"nosso\" ou \"Kalana\") respeita sua privacidade. Esta política explica como coletamos e protegemos seus dados.",
+    "intro_p2": "Ao baixar ou usar Kalana, você aceita as práticas descritas.",
+    "data_collected_title": "Informações que coletamos",
+    "data_provided_title": "Informações que você fornece",
+    "data_provided_l1": "<strong>Informações da conta:</strong> Ao criar conta Kalana.",
+    "data_provided_l2": "<strong>Dados do livro:</strong> Todas suas transações, categorias, membros.",
+    "data_provided_l3": "<strong>Contatos:</strong> Para convidar pessoas.",
+    "data_auto_title": "Informações coletadas automaticamente",
+    "data_auto_l1": "<strong>Informações do dispositivo:</strong> Tipo, versão do OS.",
+    "data_auto_l2": "<strong>Dados de uso:</strong> Estatísticas anônimas.",
+    "data_auto_l3": "<strong>Registros:</strong> Logs técnicos.",
+    "data_storage_title": "Armazenamento e segurança",
+    "data_storage_p": "Usamos Apple CloudKit:",
+    "data_storage_l1": "<strong>Armazenamento iCloud:</strong> Na sua conta pessoal.",
+    "data_storage_l2": "<strong>Criptografia:</strong> TLS/SSL e AES-128.",
+    "data_storage_l3": "<strong>Armazenamento regional:</strong> Conforme suas configurações.",
+    "data_storage_l4": "<strong>Controle de acesso:</strong> Apenas você e autorizados.",
+    "important_note": "<strong>Importante:</strong> Como desenvolvedores, não temos acesso aos seus dados no iCloud.",
+    "data_usage_title": "Uso de dados",
+    "data_usage_l": [
+      "Fornecer e melhorar Kalana",
+      "Sincronização multi-dispositivo",
+      "Colaboração",
+      "Notificações",
+      "Diagnóstico",
+      "Melhorar experiência"
+    ],
+    "data_sharing_title": "Compartilhamento de dados",
+    "no_sell_title": "Não vendemos seus dados",
+    "no_sell_p": "Nunca vendemos seus dados pessoais.",
+    "shared_members_title": "Membros do livro compartilhado",
+    "shared_members_p": "Ao convidar, você aceita compartilhar dados.",
+    "providers_title": "Provedores de serviços",
+    "providers_p": "Usamos terceiros:",
+    "providers_l1": "Apple (CloudKit)",
+    "providers_l2": "Análise e relatórios de falhas",
+    "providers_p2": "Eles são obrigados a proteger seus dados.",
+    "legal_title": "Requisitos legais",
+    "legal_p": "Podemos revelar dados diante de requisitos legais.",
+    "your_rights_title": "Seus direitos",
+    "your_rights_p": "Você tem direitos:",
+    "your_rights_l1": "<strong>Acesso:</strong> Aos seus dados a qualquer momento.",
+    "your_rights_l2": "<strong>Correção:</strong> Atualizar seus dados.",
+    "your_rights_l3": "<strong>Exclusão:</strong> Excluir conta e dados.",
+    "your_rights_l4": "<strong>Exportação:</strong> Exportar em CSV.",
+    "your_rights_l5": "<strong>Retirar consentimento:</strong> Revogar согласие.",
+    "children_title": "Privacidade infantil",
+    "children_p": "Kalana não é direcionada a menores de 13 anos.",
+    "third_party_title": "Links de terceiros",
+    "third_party_p": "Kalana pode conter links para serviços de terceiros.",
+    "updates_title": "Atualizações de política",
+    "updates_p": "Podemos atualizar esta política:",
+    "updates_l": [
+      "Notificações no app",
+      "Atualizar data",
+      "Obter novo consentimento"
+    ],
+    "updates_p2": "Usar significa aceitar.",
+    "contact_title": "Contate-nos",
+    "contact_p": "Para perguntas:",
+    "contact_email": "Email:",
+    "contact_p2": "Responderemos em tempo razoável."
+  },
+  "terms": {
+    "title": "Termos de Serviço",
+    "last_updated": "Última atualização: 9 de maio de 2026",
+    "service_title": "Descrição do serviço",
+    "service_p1": "Kalana é um aplicativo de contabilidade compartilhada multiusuário com sincronização iCloud.",
+    "service_p2": "Por favor leia os termos antes de usar.",
+    "account_title": "Registro e uso da conta",
+    "account_req_title": "Requisitos da conta",
+    "account_req_l": [
+      "É necessário Apple ID válido",
+      "Dados do iCloud devem estar atualizados",
+      "Você é responsável por toda atividade"
+    ],
+    "account_sec_title": "Segurança da conta",
+    "account_sec_p": "Você é responsável por:",
+    "account_sec_l": [
+      "Segurança do Apple ID e senha",
+      "Não compartilhar credenciais",
+      "Notificar perda imediatamente",
+      "Configurar senha ou biometria de bloqueio de tela"
+    ],
+    "account_sec_l4": "Configurar senha ou biometria de bloqueio de tela",
+    "usage_title": "Diretrizes de uso",
+    "usage_intro": "Você aceita usar Kalana apenas para fins legais:",
+    "usage_not_title": "PROIBIDO:",
+    "usage_not_l": [
+      "Atividades ilegais",
+      "Acesso não autorizado",
+      "Ferramentas automatizadas",
+      "Propagar vírus",
+      "Evadir segurança"
+    ],
+    "usage_ledger_title": "Uso do livro",
+    "usage_ledger_l": [
+      "Seu conteúdo pertence a você",
+      "Responsabilidade do conteúdo compartilhado",
+      "Obtenha autorização necessária antes de convidar outros",
+      "Respeite a privacidade e segurança dos outros membros"
+    ],
+    "usage_ledger_l3": "Obtenha autorização necessária antes de convidar outros",
+    "usage_ledger_l4": "Respeite a privacidade e segurança dos outros membros",
+    "data_title": "Armazenamento e sincronização",
+    "data_p": "Kalana usa Apple CloudKit:",
+    "data_l": [
+      "Dados na sua iCloud",
+      "Sincronização depende da rede",
+      "Recomendamos backups regulares",
+      "Recomendamos backups regulares de dados importantes"
+    ],
+    "data_l4": "Recomendamos backups regulares de dados importantes",
+    "ip_title": "Propriedade intelectual",
+    "ip_p": "O app é protegido por leis de PI.",
+    "ip_l": [
+      "Conservamos todos os direitos",
+      "Sem permissão não pode copiar",
+      "Você retém a propriedade dos dados que cria",
+      "Você nos concede licença limitada para fornecer serviços"
+    ],
+    "ip_l3": "Você retém a propriedade dos dados que cria",
+    "ip_l4": "Você nos concede licença limitada para fornecer serviços",
+    "availability_title": "Disponibilidade do serviço",
+    "availability_change_title": "Alterações do Serviço",
+    "availability_change_p": "Podemos modificar ou terminar o serviço.",
+    "availability_maint_title": "Manutenção",
+    "availability_maint_p": "Manutenção pode causar indisponibilidade temporária.",
+    "availability_disclaimer_title": "Aviso legal",
+    "availability_disclaimer_p": "Kalana é fornecida \"como está\":",
+    "availability_disclaimer_l": [
+      "Sem garantia de disponibilidade",
+      "Sem garantia de ausência de erros",
+      "Sem garantia de precisão dos resultados"
+    ],
+    "availability_disclaimer_l3": "Sem garantia de precisão dos resultados",
+    "availability_disclaimer_p2": "Não somos responsáveis por danos indiretos.",
+    "liability_title": "Limitação de responsabilidade",
+    "liability_p": "Nossa responsabilidade não excede:",
+    "liability_l": [
+      "Taxas pagas",
+      "Ou 100 USD sem pagamento"
+    ],
+    "termination_title": "Término da conta",
+    "termination_user_title": "Por você",
+    "termination_user_p": "Você pode terminar:",
+    "termination_user_l": [
+      "Excluir app",
+      "Contatar suporte"
+    ],
+    "termination_us_title": "Por nós",
+    "termination_us_p": "Por violações:",
+    "termination_us_l": [
+      "Suspender acesso",
+      "Terminar conta",
+      "Excluir dados"
+    ],
+    "policy_updates_title": "Atualizações",
+    "policy_updates_p": "Podemos atualizar estes termos.",
+    "policy_updates_l": [
+      "Atualizar data",
+      "Notificações",
+      "Novo consentimento"
+    ],
+    "policy_updates_p2": "Usar significa aceitar.",
+    "applicable_law_title": "Lei aplicável",
+    "applicable_law_p": "Os termos são regidos pela lei aplicável.",
+    "contact_title": "Contate-nos",
+    "contact_p": "Para perguntas:",
+    "contact_email": "Email:",
+    "contact_p2": "Responderemos em tempo razoável."
+  },
+  "support": {
+    "title": "Suporte técnico",
+    "subtitle": "Estamos aqui para ajudar",
+    "contact_title": "Contate-nos",
+    "contact_p": "Se não encontrou solução:",
+    "contact_email": "Email:",
+    "faq_title": "Perguntas frequentes (FAQ)",
+    "faq1_q": "Como baixo Kalana?",
+    "faq1_a": "Kalana chegará em breve à App Store. Procure \"Kalana\" ou visite nosso site.",
+    "faq2_q": "Quais dispositivos são suportados?",
+    "faq2_a1": "Kalana é para iOS:",
+    "faq2_a_l1": "iPhone (iOS 17.0+)",
+    "faq2_a_l2": "iPad (iPadOS 17.0+)",
+    "faq2_a2": "Versão Android em desenvolvimento.",
+    "faq3_q": "Como criar um livro?",
+    "faq3_p": "Criar livro é simples:",
+    "faq3_l": [
+      "Toque em \"Criar livro\"",
+      "Defina nome e ícone",
+      "Selecione moeda",
+      "Adicione transações"
+    ],
+    "faq4_q": "Como convidar membros?",
+    "faq4_p": "Kalana usa CloudKit para convidar:",
+    "faq4_l": [
+      "Abra o livro",
+      "Toque em \"Membros\"",
+      "Selecione \"Convidar\"",
+      "Compartilhe link",
+      "Após aceitar, podem ver e editar o livro"
+    ],
+    "faq4_l5": "Após aceitar, podem ver e editar o livro",
+    "faq4_note": "Todos devem usar dispositivos Apple.",
+    "faq5_q": "Meus dados são seguros?",
+    "faq5_p": "Sim, segurança é prioridade:",
+    "faq5_l": [
+      "Dados no iCloud pessoal",
+      "Criptografia completa",
+      "Desenvolvedores sem acesso",
+      "Apenas você e membros convidados podem ver o conteúdo"
+    ],
+    "faq5_l4": "Apenas você e membros convidados podem ver o conteúdo",
+    "faq5_link": "Ver Política de Privacidade.",
+    "faq6_q": "Sincronização não funciona?",
+    "faq6_p": "Tente:",
+    "faq6_l": [
+      "Verificar rede",
+      "Verificar iCloud em Ajustes",
+      "Reentrar no iCloud",
+      "Reiniciar app",
+      "Atualizar sistema: certifique-se de ter a versão mais recente do iOS/iPadOS"
+    ],
+    "faq6_l5": "Atualizar sistema: certifique-se de ter a versão mais recente do iOS/iPadOS",
+    "faq6_note": "Contate suporte se persistir.",
+    "faq7_q": "Como exportar dados?",
+    "faq7_p": "Exportar é possível:",
+    "faq7_l": [
+      "Abra o livro",
+      "Ajustes",
+      "\"Exportar\"",
+      "Selecione formato",
+      "Os dados serão salvos ou compartilhados"
+    ],
+    "faq7_l5": "Os dados serão salvos ou compartilhados",
+    "faq8_q": "Como excluir minha conta?",
+    "faq8_p": "Excluir remove permanentemente:",
+    "faq8_l": [
+      "Abra Ajustes",
+      "Encontre \"Excluir conta\"",
+      "Confirme"
+    ],
+    "faq8_note": "Remove apenas seus dados em livros compartilhados.",
+    "faq9_q": "Kalana é grátis?",
+    "faq9_p": "Funcionalidades básicas são grátis:",
+    "faq9_l": [
+      "Múltiplos livros",
+      "Transações ilimitadas",
+      "Sincronização iCloud",
+      "Relatórios básicos",
+      "Calendário"
+    ],
+    "faq9_l6": "Calendário",
+    "faq9_note": "Funcionalidades premium podem ser adicionadas.",
+    "faq10_q": "Como reportar problemas?",
+    "faq10_p": "Valorizamos seu feedback!",
+    "faq10_l1": "<strong>Email:</strong>",
+    "faq10_l2": "<strong>Assunto:</strong> \"Feedback\" ou \"Bug Report\"",
+    "faq10_l3": "<strong>Info:</strong> Modelo, versão iOS, descrição",
+    "troubleshoot_title": "Solução de problemas",
+    "troubleshoot_open_title": "App não abre",
+    "troubleshoot_open_l": [
+      "Verificar iOS 17.0+",
+      "Reiniciar dispositivo",
+      "Atualizar app",
+      "Se o problema persistir, tente excluir e reinstalar"
+    ],
+    "troubleshoot_open_l4": "Se o problema persistir, tente excluir e reinstalar",
+    "troubleshoot_data_title": "Dados perdidos",
+    "troubleshoot_data_l": [
+      "Verificar iCloud",
+      "Mesmo Apple ID",
+      "Ver \"Recently Deleted\"",
+      "Contatar suporte para ajuda"
+    ],
+    "troubleshoot_data_l4": "Contatar suporte para ajuda",
+    "troubleshoot_invite_title": "Link de convite inválido",
+    "troubleshoot_invite_l": [
+      "Link pode ter expirado",
+      "Gerar novo",
+      "Verificar versões"
+    ],
+    "contact_note": "Responderemos em 1-3 dias úteis.",
+    "contact_p2": "Se o acima não resolver seu problema, entre em contato conosco em:"
+  }
+}
