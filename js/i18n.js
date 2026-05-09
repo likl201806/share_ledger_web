@@ -6,7 +6,7 @@
 // Supported languages
 const SUPPORTED_LANGUAGES = [
   { code: 'zh-CN', name: '简体中文', flag: '🇨🇳', dir: 'zh' },
-  { code: 'zh-TW', name: '繁體中文', flag: '🇹🇼', dir: 'zh' },
+  { code: 'zh-TW', name: '繁體中文', flag: '🇭🇰', dir: 'zh' },
   { code: 'en', name: 'English', flag: '🇺🇸', dir: 'en' },
   { code: 'ja', name: '日本語', flag: '🇯🇵', dir: 'ja' },
   { code: 'ko', name: '한국어', flag: '🇰🇷', dir: 'ko' },
