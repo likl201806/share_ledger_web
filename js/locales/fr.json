@@ -271,22 +271,6 @@
       "Redémarrez l'application"
     ],
     "faq6_note": "Contactez le support si le problème persiste.",
-    "faq7_q": "Comment exporter mes données?",
-    "faq7_p": "Vous pouvez exporter à tout moment:",
-    "faq7_l": [
-      "Ouvrez le livre",
-      "Allez dans Paramètres",
-      "Sélectionnez \"Exporter\"",
-      "Choisissez le format"
-    ],
-    "faq8_q": "Comment supprimer mon compte?",
-    "faq8_p": "La suppression retire définitivement toutes vos données:",
-    "faq8_l": [
-      "Ouvrez Kalana, allez dans Paramètres",
-      "Trouvez \"Supprimer le compte\"",
-      "Confirmez"
-    ],
-    "faq8_note": "Note: La suppression retire vos données du livre partagé seulement.",
     "faq9_q": "Kalana est-il gratuit?",
     "faq9_p": "Les fonctionnalités de base sont gratuites:",
     "faq9_l1": "Créer et gérer plusieurs livres",

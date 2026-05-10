@@ -289,24 +289,6 @@
     ],
     "faq6_l5": "Actualizar sistema: asegúrate de tener la última versión de iOS/iPadOS",
     "faq6_note": "Contacta soporte si persiste.",
-    "faq7_q": "¿Cómo exportar datos?",
-    "faq7_p": "Exportar es posible:",
-    "faq7_l": [
-      "Abre el libro",
-      "Ajustes",
-      "\"Exportar\"",
-      "Selecciona formato",
-      "Los datos se guardarán o compartirán"
-    ],
-    "faq7_l5": "Los datos se guardarán o compartirán",
-    "faq8_q": "¿Cómo borrar mi cuenta?",
-    "faq8_p": "Borrar elimina permanentemente:",
-    "faq8_l": [
-      "Abre Ajustes",
-      "Encuentra \"Borrar cuenta\"",
-      "Confirma"
-    ],
-    "faq8_note": "Solo elimina tus datos en libros compartidos.",
     "faq9_q": "¿Kalana es gratis?",
     "faq9_p": "Funciones básicas son gratis:",
     "faq9_l": [

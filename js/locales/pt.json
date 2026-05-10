@@ -289,24 +289,6 @@
     ],
     "faq6_l5": "Atualizar sistema: certifique-se de ter a versão mais recente do iOS/iPadOS",
     "faq6_note": "Contate suporte se persistir.",
-    "faq7_q": "Como exportar dados?",
-    "faq7_p": "Exportar é possível:",
-    "faq7_l": [
-      "Abra o livro",
-      "Ajustes",
-      "\"Exportar\"",
-      "Selecione formato",
-      "Os dados serão salvos ou compartilhados"
-    ],
-    "faq7_l5": "Os dados serão salvos ou compartilhados",
-    "faq8_q": "Como excluir minha conta?",
-    "faq8_p": "Excluir remove permanentemente:",
-    "faq8_l": [
-      "Abra Ajustes",
-      "Encontre \"Excluir conta\"",
-      "Confirme"
-    ],
-    "faq8_note": "Remove apenas seus dados em livros compartilhados.",
     "faq9_q": "Kalana é grátis?",
     "faq9_p": "Funcionalidades básicas são grátis:",
     "faq9_l": [

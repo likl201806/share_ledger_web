@@ -289,24 +289,6 @@
     ],
     "faq6_l5": "System aktualisieren: iOS/iPadOS auf neueste Version",
     "faq6_note": "Support kontaktieren wenn Problem besteht.",
-    "faq7_q": "Wie exportiere ich Daten?",
-    "faq7_p": "Export jederzeit möglich:",
-    "faq7_l": [
-      "Konto öffnen",
-      "Einstellungen",
-      "\"Exportieren\" wählen",
-      "Format wählen",
-      "Daten werden gespeichert oder geteilt"
-    ],
-    "faq7_l5": "Daten werden gespeichert oder geteilt",
-    "faq8_q": "Wie lösche ich mein Konto?",
-    "faq8_p": "Löschung entfernt dauerhaft alle Daten:",
-    "faq8_l": [
-      "Kalana öffnen, Einstellungen",
-      "\"Konto löschen\" finden",
-      "Bestätigen"
-    ],
-    "faq8_note": "Löschung betrifft nur Ihre Daten im geteilten Konto.",
     "faq9_q": "Ist Kalana kostenlos?",
     "faq9_p": "Grundfunktionen sind kostenlos:",
     "faq9_l": [
