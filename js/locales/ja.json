@@ -36,9 +36,7 @@
   "download": {
     "title": "始めましょう",
     "subtitle": "App StoreでCoBudgetをダウンロード、スマートな共有帳簿管理を始める",
-    "appstore": "App Storeでダウンロード",
-    "googleplay": "近日登場 Google Play",
-    "coming_soon": "近日登場"
+    "appstore": "App Storeでダウンロード"
   },
   "footer": {
     "product": "製品",
@@ -244,7 +242,6 @@
     "faq2_a1": "CoBudgetはiOSデバイス向けに設計されています：",
     "faq2_a_l1": "iPhone（iOS 17.0以降）",
     "faq2_a_l2": "iPad（iPadOS 17.0以降）",
-    "faq2_a2": "Android版は開発中です。",
     "faq3_q": "帳簿の作成方法は？",
     "faq3_p": "帳簿の作成は簡単です：",
     "faq3_l": [

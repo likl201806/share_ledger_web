@@ -36,9 +36,7 @@
   "download": {
     "title": "शुरू करें",
     "subtitle": "App Store से CoBudget डाउनलोड करें और अपनी स्मार्ट साझा लेखांकन यात्रा शुरू करें",
-    "appstore": "App Store से डाउनलोड करें",
-    "googleplay": "जल्द Google Play पर",
-    "coming_soon": "जल्द आ रहा है"
+    "appstore": "App Store से डाउनलोड करें"
   },
   "footer": {
     "product": "उत्पाद",
@@ -248,7 +246,6 @@
     "faq2_a1": "CoBudget iOS के लिए है:",
     "faq2_a_l1": "iPhone (iOS 17.0+)",
     "faq2_a_l2": "iPad (iPadOS 17.0+)",
-    "faq2_a2": "Android संस्करण विकास में है।",
     "faq3_q": "लेज़र कैसे बनाएं?",
     "faq3_p": "लेज़र बनाना आसान है:",
     "faq3_l": [

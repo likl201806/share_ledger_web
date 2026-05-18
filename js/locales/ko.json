@@ -36,9 +36,7 @@
   "download": {
     "title": "시작하기",
     "subtitle": "App Store에서 CoBudget를 다운로드하고 스마트한共用 장부 여정을 시작하세요",
-    "appstore": "App Store에서 다운로드",
-    "googleplay": "곧 Google Play에 출시",
-    "coming_soon": "출시 예정"
+    "appstore": "App Store에서 다운로드"
   },
   "footer": {
     "product": "제품",
@@ -244,7 +242,6 @@
     "faq2_a1": "CoBudget는 iOS 기기 전용으로 설계되었습니다:",
     "faq2_a_l1": "iPhone (iOS 17.0 이상)",
     "faq2_a_l2": "iPad (iPadOS 17.0 이상)",
-    "faq2_a2": "Android 버전은 개발 중입니다.",
     "faq3_q": "장부를 만드는 방법은?",
     "faq3_p": "장부 만들기는 간단합니다:",
     "faq3_l": [

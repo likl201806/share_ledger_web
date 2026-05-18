@@ -36,9 +36,7 @@
   "download": {
     "title": "Comenzar",
     "subtitle": "Descarga CoBudget en App Store y comienza tu viaje de contabilidad compartida inteligente",
-    "appstore": "Descargar en App Store",
-    "googleplay": "Próximamente en Google Play",
-    "coming_soon": "Próximamente"
+    "appstore": "Descargar en App Store"
   },
   "footer": {
     "product": "Producto",
@@ -248,7 +246,6 @@
     "faq2_a1": "CoBudget es para iOS:",
     "faq2_a_l1": "iPhone (iOS 17.0+)",
     "faq2_a_l2": "iPad (iPadOS 17.0+)",
-    "faq2_a2": "Versión Android en desarrollo.",
     "faq3_q": "¿Cómo crear un libro?",
     "faq3_p": "Crear libro es simple:",
     "faq3_l": [

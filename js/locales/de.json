@@ -36,9 +36,7 @@
   "download": {
     "title": "Loslegen",
     "subtitle": "Laden Sie CoBudget im App Store herunter und beginnen Sie Ihre Reise",
-    "appstore": "Im App Store herunterladen",
-    "googleplay": "Bald im Google Play",
-    "coming_soon": "Demnächst"
+    "appstore": "Im App Store herunterladen"
   },
   "footer": {
     "product": "Produkt",
@@ -248,7 +246,6 @@
     "faq2_a1": "CoBudget ist für iOS konzipiert:",
     "faq2_a_l1": "iPhone (iOS 17.0+)",
     "faq2_a_l2": "iPad (iPadOS 17.0+)",
-    "faq2_a2": "Android-Version in Entwicklung.",
     "faq3_q": "Wie erstelle ich ein Konto?",
     "faq3_p": "Konto erstellen ist einfach:",
     "faq3_l": [

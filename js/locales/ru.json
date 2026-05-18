@@ -36,9 +36,7 @@
   "download": {
     "title": "Начать",
     "subtitle": "Скачайте CoBudget в App Store и начните умный совместный учёт",
-    "appstore": "Скачать в App Store",
-    "googleplay": "Скоро в Google Play",
-    "coming_soon": "Скоро"
+    "appstore": "Скачать в App Store"
   },
   "footer": {
     "product": "Продукт",
@@ -248,7 +246,6 @@
     "faq2_a1": "CoBudget для iOS:",
     "faq2_a_l1": "iPhone (iOS 17.0+)",
     "faq2_a_l2": "iPad (iPadOS 17.0+)",
-    "faq2_a2": "Android версия в разработке.",
     "faq3_q": "Как создать счёт?",
     "faq3_p": "Создать счёт просто:",
     "faq3_l": [

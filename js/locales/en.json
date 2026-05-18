@@ -36,9 +36,7 @@
   "download": {
     "title": "Get Started",
     "subtitle": "Download CoBudget from the App Store and begin your smart shared accounting journey",
-    "appstore": "Download on App Store",
-    "googleplay": "Coming Soon to Google Play",
-    "coming_soon": "Coming Soon"
+    "appstore": "Download on App Store"
   },
   "footer": {
     "product": "Product",
@@ -218,7 +216,6 @@
     "faq2_a1": "CoBudget is designed for iOS devices, supporting:",
     "faq2_a_l1": "iPhone (iOS 17.0 or later)",
     "faq2_a_l2": "iPad (iPadOS 17.0 or later)",
-    "faq2_a2": "Android version is under development.",
     "faq3_q": "How do I create a ledger?",
     "faq3_p": "Creating a ledger is simple:",
     "faq3_l1": "When first opening the app, tap \"Create Ledger\"",

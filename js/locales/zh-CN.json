@@ -36,9 +36,7 @@
   "download": {
     "title": "立即开始",
     "subtitle": "在 App Store 下载 CoBudget，开启智能共享记账之旅",
-    "appstore": "下载 App Store",
-    "googleplay": "即将上线 Google Play",
-    "coming_soon": "即将上线"
+    "appstore": "下载 App Store"
   },
   "footer": {
     "product": "产品",
@@ -218,7 +216,6 @@
     "faq2_a1": "CoBudget 专为 iOS 设备设计，支持以下设备：",
     "faq2_a_l1": "iPhone（运行 iOS 17.0 或更高版本）",
     "faq2_a_l2": "iPad（运行 iPadOS 17.0 或更高版本）",
-    "faq2_a2": "Android 版本正在开发中，敬请期待。",
     "faq3_q": "如何创建账本？",
     "faq3_p": "创建账本非常简单：",
     "faq3_l1": "首次打开应用时，点击「创建账本」按钮",
