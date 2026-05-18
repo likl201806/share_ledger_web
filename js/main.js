@@ -1,5 +1,5 @@
 /**
- * Kalana Website Main JavaScript
+ * CoBudget Website Main JavaScript
  * 处理移动端菜单、FAQ 展开等交互
  */
 

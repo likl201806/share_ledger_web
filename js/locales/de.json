@@ -13,12 +13,12 @@
   },
   "hero": {
     "title": "Gemeinsames Konto, Leben vereinfacht",
-    "subtitle": "Kalana macht gemeinschaftliches Buchhalten einfach. Mit iCloud Echtzeit-Synchronisierung verwalten Sie Ihre Gruppenfinanzen überall.",
+    "subtitle": "CoBudget macht gemeinschaftliches Buchhalten einfach. Mit iCloud Echtzeit-Synchronisierung verwalten Sie Ihre Gruppenfinanzen überall.",
     "download": "Jetzt herunterladen",
     "learnMore": "Mehr erfahren"
   },
   "features": {
-    "title": "Warum Kalana wählen",
+    "title": "Warum CoBudget wählen",
     "subtitle": "Elegantes Design, leistungsstarke Funktionen - Buchhaltung wird zum Vergnügen",
     "icloud_title": "iCloud Echtzeit-Synchronisierung",
     "icloud_desc": "Mit Apple CloudKit werden Ihre Daten sicher in iCloud gespeichert und synchronisiert.",
@@ -35,7 +35,7 @@
   },
   "download": {
     "title": "Loslegen",
-    "subtitle": "Laden Sie Kalana im App Store herunter und beginnen Sie Ihre Reise",
+    "subtitle": "Laden Sie CoBudget im App Store herunter und beginnen Sie Ihre Reise",
     "appstore": "Im App Store herunterladen",
     "googleplay": "Bald im Google Play",
     "coming_soon": "Demnächst"
@@ -49,7 +49,7 @@
     "terms_of_service": "Nutzungsbedingungen",
     "support": "Support",
     "contact_us": "Kontakt",
-    "copyright": "© 2026 Kalana. Alle Rechte vorbehalten."
+    "copyright": "© 2026 CoBudget. Alle Rechte vorbehalten."
   },
   "screenshots": {
     "title": "App-Screenshots",
@@ -63,11 +63,11 @@
     "title": "Datenschutzrichtlinie",
     "last_updated": "Letzte Aktualisierung: 9. Mai 2026",
     "intro_title": "Einleitung",
-    "intro_p1": "Kalana (\"wir\", \"unser\" oder \"Kalana\") respektiert Ihre Privatsphäre. Diese Richtlinie erklärt, wie wir Ihre Daten sammeln, verwenden und schützen.",
-    "intro_p2": "Mit dem Herunterladen oder Nutzen von Kalana stimmen Sie diesen Praktiken zu.",
+    "intro_p1": "CoBudget (\"wir\", \"unser\" oder \"CoBudget\") respektiert Ihre Privatsphäre. Diese Richtlinie erklärt, wie wir Ihre Daten sammeln, verwenden und schützen.",
+    "intro_p2": "Mit dem Herunterladen oder Nutzen von CoBudget stimmen Sie diesen Praktiken zu.",
     "data_collected_title": "Gesammelte Informationen",
     "data_provided_title": "Von Ihnen bereitgestellte Informationen",
-    "data_provided_l1": "<strong>Kontoinformationen:</strong> Bei der Erstellung eines Kalana-Kontos.",
+    "data_provided_l1": "<strong>Kontoinformationen:</strong> Bei der Erstellung eines CoBudget-Kontos.",
     "data_provided_l2": "<strong>Kontodaten:</strong> Alle Ihre Transaktionen, Kategorien, Mitglieder.",
     "data_provided_l3": "<strong>Kontakte:</strong> Zum Einladen von Personen.",
     "data_auto_title": "Automatisch gesammelte Informationen",
@@ -83,7 +83,7 @@
     "important_note": "<strong>Wichtig:</strong> Als Entwickler haben wir keinen Zugriff auf Ihre iCloud-Daten.",
     "data_usage_title": "Datennutzung",
     "data_usage_l": [
-      "Bereitstellung und Verbesserung von Kalana",
+      "Bereitstellung und Verbesserung von CoBudget",
       "Multi-Gerät-Synchronisierung",
       "Zusammenarbeit",
       "Service-Benachrichtigungen",
@@ -110,9 +110,9 @@
     "your_rights_l4": "<strong>Export:</strong> Daten als CSV exportieren.",
     "your_rights_l5": "<strong>Widerruf:</strong> Zustimmung zurückziehen.",
     "children_title": "Kinder-Privatsphäre",
-    "children_p": "Kalana ist nicht für Kinder unter 13 Jahren bestimmt.",
+    "children_p": "CoBudget ist nicht für Kinder unter 13 Jahren bestimmt.",
     "third_party_title": "Drittanbieter-Links",
-    "third_party_p": "Kalana kann Links zu Drittanbietern enthalten.",
+    "third_party_p": "CoBudget kann Links zu Drittanbietern enthalten.",
     "updates_title": "Richtlinien-Updates",
     "updates_p": "Wir können diese Richtlinie aktualisieren:",
     "updates_l": [
@@ -130,7 +130,7 @@
     "title": "Nutzungsbedingungen",
     "last_updated": "Letzte Aktualisierung: 9. Mai 2026",
     "service_title": "Servicebeschreibung",
-    "service_p1": "Kalana ist eine Mehrbenutzer-App mit iCloud-Synchronisierung.",
+    "service_p1": "CoBudget ist eine Mehrbenutzer-App mit iCloud-Synchronisierung.",
     "service_p2": "Bitte lesen Sie diese Bedingungen vor der Nutzung.",
     "account_title": "Konto-Registrierung & Nutzung",
     "account_req_title": "Konto-Anforderungen",
@@ -149,7 +149,7 @@
     ],
     "account_sec_l4": "Bildschirmsperre oder Biometrie einrichten",
     "usage_title": "Nutzungsrichtlinien",
-    "usage_intro": "Sie stimmen zu, Kalana nur für rechtmäßige Zwecke zu nutzen:",
+    "usage_intro": "Sie stimmen zu, CoBudget nur für rechtmäßige Zwecke zu nutzen:",
     "usage_not_title": "Sie dürfen NICHT:",
     "usage_not_l": [
       "Illegale Aktivitäten",
@@ -168,7 +168,7 @@
     "usage_ledger_l3": "Erforderliche Genehmigung vor Einladung einholen",
     "usage_ledger_l4": "Privatsphäre und Datensicherheit anderer respektieren",
     "data_title": "Datenspeicherung & Synchronisierung",
-    "data_p": "Kalana nutzt Apple CloudKit:",
+    "data_p": "CoBudget nutzt Apple CloudKit:",
     "data_l": [
       "Daten in Ihrem iCloud-Konto",
       "Synchronisierung hängt von Netzwerk ab",
@@ -177,7 +177,7 @@
     ],
     "data_l4": "Regelmäßige Backups für wichtige Daten empfohlen",
     "ip_title": "Geistiges Eigentum",
-    "ip_p": "Die Kalana-App ist durch IP-Gesetze geschützt.",
+    "ip_p": "Die CoBudget-App ist durch IP-Gesetze geschützt.",
     "ip_l": [
       "Wir behalten alle Rechte",
       "Keine unerlaubte Vervielfältigung",
@@ -192,7 +192,7 @@
     "availability_maint_title": "Wartung",
     "availability_maint_p": "Wartung kann vorübergehende Nichtverfügbarkeit verursachen.",
     "availability_disclaimer_title": "Haftungsausschluss",
-    "availability_disclaimer_p": "Kalana wird \"wie besehen\" bereitgestellt:",
+    "availability_disclaimer_p": "CoBudget wird \"wie besehen\" bereitgestellt:",
     "availability_disclaimer_l": [
       "Keine Verfügbarkeitsgarantie",
       "Keine Fehlerfreiheitsgarantie",
@@ -242,10 +242,10 @@
     "contact_p": "Wenn keine Lösung gefunden:",
     "contact_email": "E-Mail:",
     "faq_title": "Häufige Fragen (FAQ)",
-    "faq1_q": "Wie lade ich Kalana herunter?",
-    "faq1_a": "Kalana kommt bald in den App Store. Suchen Sie nach \"Kalana\" oder besuchen Sie unsere Website.",
+    "faq1_q": "Wie lade ich CoBudget herunter?",
+    "faq1_a": "CoBudget kommt bald in den App Store. Suchen Sie nach \"CoBudget\" oder besuchen Sie unsere Website.",
     "faq2_q": "Welche Geräte werden unterstützt?",
-    "faq2_a1": "Kalana ist für iOS konzipiert:",
+    "faq2_a1": "CoBudget ist für iOS konzipiert:",
     "faq2_a_l1": "iPhone (iOS 17.0+)",
     "faq2_a_l2": "iPad (iPadOS 17.0+)",
     "faq2_a2": "Android-Version in Entwicklung.",
@@ -258,7 +258,7 @@
       "Transaktionen hinzufügen"
     ],
     "faq4_q": "Wie lade ich andere ein?",
-    "faq4_p": "Kalana nutzt CloudKit zum Einladen:",
+    "faq4_p": "CoBudget nutzt CloudKit zum Einladen:",
     "faq4_l": [
       "Öffnen Sie das zu teilende Konto",
       "Tippen Sie auf \"Mitglieder\"",
@@ -289,7 +289,7 @@
     ],
     "faq6_l5": "System aktualisieren: iOS/iPadOS auf neueste Version",
     "faq6_note": "Support kontaktieren wenn Problem besteht.",
-    "faq9_q": "Ist Kalana kostenlos?",
+    "faq9_q": "Ist CoBudget kostenlos?",
     "faq9_p": "Grundfunktionen sind kostenlos:",
     "faq9_l": [
       "Mehrere Konten",

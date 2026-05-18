@@ -13,12 +13,12 @@
   },
   "hero": {
     "title": "साझा लेखांकन, जीवन को सरल बनाएं",
-    "subtitle": "Kalana सभी के लिए साझा लेखांकन को आसान बनाता है। iCloud रियल-टाइम सिंक के साथ, कहीं भी अपने समूह के वित्त को प्रबंधित करें।",
+    "subtitle": "CoBudget सभी के लिए साझा लेखांकन को आसान बनाता है। iCloud रियल-टाइम सिंक के साथ, कहीं भी अपने समूह के वित्त को प्रबंधित करें।",
     "download": "अभी डाउनलोड करें",
     "learnMore": "और जानें"
   },
   "features": {
-    "title": "Kalana को क्यों चुनें",
+    "title": "CoBudget को क्यों चुनें",
     "subtitle": "सुंदर डिज़ाइन, शक्तिशाली सुविधाएं - लेखांकन को आनंददायक बनाएं",
     "icloud_title": "iCloud रियल-टाइम सिंक",
     "icloud_desc": "Apple CloudKit तकनीक का उपयोग करके, आपके डेटा iCloud में सुरक्षित रूप से संग्रहीत हैं।",
@@ -35,7 +35,7 @@
   },
   "download": {
     "title": "शुरू करें",
-    "subtitle": "App Store से Kalana डाउनलोड करें और अपनी स्मार्ट साझा लेखांकन यात्रा शुरू करें",
+    "subtitle": "App Store से CoBudget डाउनलोड करें और अपनी स्मार्ट साझा लेखांकन यात्रा शुरू करें",
     "appstore": "App Store से डाउनलोड करें",
     "googleplay": "जल्द Google Play पर",
     "coming_soon": "जल्द आ रहा है"
@@ -49,7 +49,7 @@
     "terms_of_service": "सेवा की शर्तें",
     "support": "सहायता",
     "contact_us": "संपर्क करें",
-    "copyright": "© 2026 Kalana. सर्वाधिकार सुरक्षित।"
+    "copyright": "© 2026 CoBudget. सर्वाधिकार सुरक्षित।"
   },
   "screenshots": {
     "title": "ऐप स्क्रीनशॉट",
@@ -63,11 +63,11 @@
     "title": "गोपनीयता नीति",
     "last_updated": "अंतिम अपडेट: 9 मई 2026",
     "intro_title": "परिचय",
-    "intro_p1": "Kalana (\"हम\", \"हमारा\" या \"Kalana\") आपकी गोपनीयता का सम्मान करता है।",
-    "intro_p2": "Kalana डाउनलोड या उपयोग करके, आप वर्णित प्रथाओं से सहमत हैं।",
+    "intro_p1": "CoBudget (\"हम\", \"हमारा\" या \"CoBudget\") आपकी गोपनीयता का सम्मान करता है।",
+    "intro_p2": "CoBudget डाउनलोड या उपयोग करके, आप वर्णित प्रथाओं से सहमत हैं।",
     "data_collected_title": "जानकारी जो हम एकत्र करते हैं",
     "data_provided_title": "आपकी ओर से जानकारी",
-    "data_provided_l1": "<strong>खाता जानकारी:</strong> Kalana खाता बनाते समय।",
+    "data_provided_l1": "<strong>खाता जानकारी:</strong> CoBudget खाता बनाते समय।",
     "data_provided_l2": "<strong>लेज़र डेटा:</strong> आपके सभी लेनदेन, श्रेणियां, सदस्य।",
     "data_provided_l3": "<strong>संपर्क:</strong> लोगों को आमंत्रित करने के लिए।",
     "data_auto_title": "स्वचालित रूप से एकत्रित जानकारी",
@@ -83,7 +83,7 @@
     "important_note": "<strong>महत्वपूर्ण:</strong> डेवलपर्स के रूप में, हम आपके iCloud डेटा तक नहीं पहुंच सकते।",
     "data_usage_title": "डेटा उपयोग",
     "data_usage_l": [
-      "Kalana प्रदान करना और सुधारना",
+      "CoBudget प्रदान करना और सुधारना",
       "मल्टी-डिवाइस सिंक",
       "सहयोग",
       "सूचनाएं",
@@ -110,9 +110,9 @@
     "your_rights_l4": "<strong>निर्यात:</strong> CSV में निर्यात करें।",
     "your_rights_l5": "<strong>सहमति वापस लेना:</strong> सहमति वापस लें।",
     "children_title": "बच्चों की गोपनीयता",
-    "children_p": "Kalana 13 वर्ष से कम उम्र के बच्चों के लिए नहीं है।",
+    "children_p": "CoBudget 13 वर्ष से कम उम्र के बच्चों के लिए नहीं है।",
     "third_party_title": "तृतीय पक्ष लिंक",
-    "third_party_p": "Kalana में तृतीय पक्ष सेवाओं के लिंक हो सकते हैं।",
+    "third_party_p": "CoBudget में तृतीय पक्ष सेवाओं के लिंक हो सकते हैं।",
     "updates_title": "नीति अपडेट",
     "updates_p": "हम इस नीति को अपडेट कर सकते हैं:",
     "updates_l": [
@@ -130,7 +130,7 @@
     "title": "सेवा की शर्तें",
     "last_updated": "अंतिम अपडेट: 9 मई 2026",
     "service_title": "सेवा विवरण",
-    "service_p1": "Kalana एक मल्टी-यूज़र साझा लेखांकन ऐप है।",
+    "service_p1": "CoBudget एक मल्टी-यूज़र साझा लेखांकन ऐप है।",
     "service_p2": "कृपया उपयोग से पहले शर्तें पढ़ें।",
     "account_title": "खाता पंजीकरण और उपयोग",
     "account_req_title": "खाता आवश्यकताएं",
@@ -149,7 +149,7 @@
     ],
     "account_sec_l4": "स्क्रीन लॉक पासवर्ड या बायोमेट्रिक्स सेट करें",
     "usage_title": "उपयोग दिशानिर्देश",
-    "usage_intro": "आप केवल वैध उद्देश्यों के लिए Kalana का उपयोग करने के लिए सहमत हैं:",
+    "usage_intro": "आप केवल वैध उद्देश्यों के लिए CoBudget का उपयोग करने के लिए सहमत हैं:",
     "usage_not_title": "मना है:",
     "usage_not_l": [
       "अवैध गतिविधियां",
@@ -168,7 +168,7 @@
     "usage_ledger_l3": "अन्य को आमंत्रित करने से पहले आवश्यक प्राधिकरण प्राप्त करें",
     "usage_ledger_l4": "अन्य सदस्यों की गोपनीयता और डेटा सुरक्षा का सम्मान करें",
     "data_title": "डेटा संग्रहण और सिंक",
-    "data_p": "Kalana Apple CloudKit का उपयोग करता है:",
+    "data_p": "CoBudget Apple CloudKit का उपयोग करता है:",
     "data_l": [
       "डेटा आपके iCloud में",
       "सिंक नेटवर्क पर निर्भर है",
@@ -192,7 +192,7 @@
     "availability_maint_title": "रखरखाव",
     "availability_maint_p": "रखरखाव से अस्थायी अनुपलब्धता हो सकती है।",
     "availability_disclaimer_title": "अस्वीकरण",
-    "availability_disclaimer_p": "Kalana \"जैसा है\" प्रदान किया जाता है:",
+    "availability_disclaimer_p": "CoBudget \"जैसा है\" प्रदान किया जाता है:",
     "availability_disclaimer_l": [
       "उपलब्धता की गारंटी नहीं",
       "त्रुटि-मुक्त की गारंटी नहीं",
@@ -242,10 +242,10 @@
     "contact_p": "यदि समाधान नहीं मिला:",
     "contact_email": "ईमेल:",
     "faq_title": "अक्सर पूछे जाने वाले प्रश्न (FAQ)",
-    "faq1_q": "Kalana कैसे डाउनलोड करें?",
-    "faq1_a": "Kalana जल्द App Store पर आएगा। \"Kalana\" खोजें।",
+    "faq1_q": "CoBudget कैसे डाउनलोड करें?",
+    "faq1_a": "CoBudget जल्द App Store पर आएगा। \"CoBudget\" खोजें।",
     "faq2_q": "कौन से डिवाइस समर्थित हैं?",
-    "faq2_a1": "Kalana iOS के लिए है:",
+    "faq2_a1": "CoBudget iOS के लिए है:",
     "faq2_a_l1": "iPhone (iOS 17.0+)",
     "faq2_a_l2": "iPad (iPadOS 17.0+)",
     "faq2_a2": "Android संस्करण विकास में है।",
@@ -258,7 +258,7 @@
       "लेनदेन जोड़ें"
     ],
     "faq4_q": "सदस्यों को कैसे आमंत्रित करें?",
-    "faq4_p": "Kalana CloudKit का उपयोग करता है:",
+    "faq4_p": "CoBudget CloudKit का उपयोग करता है:",
     "faq4_l": [
       "लेज़र खोलें",
       "\"सदस्य\" पर टैप करें",
@@ -289,7 +289,7 @@
     ],
     "faq6_l5": "सिस्टम अपडेट करें: iOS/iPadOS नवीनतम संस्करण सुनिश्चित करें",
     "faq6_note": "यदि समस्या रहे तो सहायता से संपर्क करें।",
-    "faq9_q": "Kalana मुफ्त है?",
+    "faq9_q": "CoBudget मुफ्त है?",
     "faq9_p": "बुनियादी सुविधाएं मुफ्त हैं:",
     "faq9_l": [
       "कई लेज़र",

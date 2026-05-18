@@ -1,14 +1,14 @@
 /* ==========================================
-   Kalana / ShareLedger Website Styles
+   CoBudget / ShareLedger Website Styles
    设计风格与 iOS 应用保持一致
    ========================================== */
 
 /* CSS Variables - 与 iOS 应用主题色对应 */
 :root {
-  /* Primary Colors - 主题色 (coral) */
-  --primary: #FA9FAE;
-  --primary-light: #FCD5DC;
-  --primary-dark: #E88A9A;
+  /* Primary Colors - 主题色 (orange) */
+  --primary: #ED8109;
+  --primary-light: #F9C886;
+  --primary-dark: #C96D08;
 
   /* Semantic Colors */
   --income: #34C759;

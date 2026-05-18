@@ -13,12 +13,12 @@
   },
   "hero": {
     "title": "共有帳簿、生活をシンプルに",
-    "subtitle": "Kalanaは多人での帳簿共有を簡単にします。iCloudリアルタイム同期で、いつでもどこでもグループの財務を把握できます。",
+    "subtitle": "CoBudgetは多人での帳簿共有を簡単にします。iCloudリアルタイム同期で、いつでもどこでもグループの財務を把握できます。",
     "download": "今すぐダウンロード",
     "learnMore": "詳しく見る"
   },
   "features": {
-    "title": "Kalanaを選ぶ理由",
+    "title": "CoBudgetを選ぶ理由",
     "subtitle": "シンプルでパワフルな機能记账をより楽しみに",
     "icloud_title": "iCloudリアルタイム同期",
     "icloud_desc": "Apple CloudKit技術を採用し、データはiCloudに安全に保存されます。マルチデバイスで同期でき、データの心配は不要です。",
@@ -35,7 +35,7 @@
   },
   "download": {
     "title": "始めましょう",
-    "subtitle": "App StoreでKalanaをダウンロード、スマートな共有帳簿管理を始める",
+    "subtitle": "App StoreでCoBudgetをダウンロード、スマートな共有帳簿管理を始める",
     "appstore": "App Storeでダウンロード",
     "googleplay": "近日登場 Google Play",
     "coming_soon": "近日登場"
@@ -49,7 +49,7 @@
     "terms_of_service": "利用規約",
     "support": "サポート",
     "contact_us": "お問い合わせ",
-    "copyright": "© 2026 Kalana. All rights reserved."
+    "copyright": "© 2026 CoBudget. All rights reserved."
   },
   "screenshots": {
     "title": "アプリスクリーンショット",
@@ -63,16 +63,16 @@
     "title": "プライバシーポリシー",
     "last_updated": "最終更新日：2026年5月9日",
     "intro_title": "はじめに",
-    "intro_p1": "Kalana（「当社」、「私たちの」または「Kalana」）はお客様のプライバシーを重視しています。このプライバシーポリシーは、Kalanaアプリを使用する際に、当社が情報をどのように収集、使用、開示、保護するかを説明します。",
-    "intro_p2": "Kalanaをダウンロードまたは使用することで、このプライバシーポリシーに記載された実践に同意したものとみなされます。",
+    "intro_p1": "CoBudget（「当社」、「私たちの」または「CoBudget」）はお客様のプライバシーを重視しています。このプライバシーポリシーは、CoBudgetアプリを使用する際に、当社が情報をどのように収集、使用、開示、保護するかを説明します。",
+    "intro_p2": "CoBudgetをダウンロードまたは使用することで、このプライバシーポリシーに記載された実践に同意したものとみなされます。",
     "data_collected_title": "収集する情報",
     "data_provided_title": "客户提供いただく情報",
-    "data_provided_l1": "<strong>アカウント情報：</strong>Kalanaアカウントを作成する際に、名前（任意）やiCloudアカウント情報などの基本情報を提供場合があります。",
-    "data_provided_l2": "<strong>帳簿データ：</strong>Kalana使用時に作成したすべての帳簿データ（取引記録、カテゴリ、メンバー情報、予算設定など）。",
+    "data_provided_l1": "<strong>アカウント情報：</strong>CoBudgetアカウントを作成する際に、名前（任意）やiCloudアカウント情報などの基本情報を提供場合があります。",
+    "data_provided_l2": "<strong>帳簿データ：</strong>CoBudget使用時に作成したすべての帳簿データ（取引記録、カテゴリ、メンバー情報、予算設定など）。",
     "data_provided_l3": "<strong>連絡先情報：</strong>他の人を帳簿に招待する場合、招待对象的選択ために連絡先情報にアクセスします。",
     "data_auto_title": "自動的に収集される情報",
     "data_auto_l1": "<strong>デバイス情報：</strong>デバイスタイプ、OSバージョン、デバイス識別子など、トラブルシューティングとアプリ体験の向上に使用。",
-    "data_auto_l2": "<strong>使用データ：</strong>Kalanaの使用方法に関する匿名統計データ。",
+    "data_auto_l2": "<strong>使用データ：</strong>CoBudgetの使用方法に関する匿名統計データ。",
     "data_auto_l3": "<strong>ログデータ：</strong>アプリ実行中に生成された技術ログ。",
     "data_storage_title": "データ保存とセキュリティ",
     "data_storage_p": "AppleのCloudKitサービスを使用してデータを保存・管理しています。",
@@ -83,7 +83,7 @@
     "important_note": "<strong>重要：</strong>アプリ開発者として、私たちはiCloudに保存された帳簿データに直接アクセスすることはできません。",
     "data_usage_title": "データ使用目的",
     "data_usage_l": [
-      "Kalanaの機能とサービスの提供・維持・改善",
+      "CoBudgetの機能とサービスの提供・維持・改善",
       "帳簿データのマルチデバイス同期の実現",
       "多人共有帳簿のコラボレーション機能のサポート",
       "サービス関連の通知の送信（予算アラートなど）",
@@ -104,15 +104,15 @@
     "legal_p": "法的な要求がある場合（裁判所命令、執行機関からの要請、合法权益の保護など）、情報を開示場合があります。",
     "your_rights_title": "お客様の権利",
     "your_rights_p": "データに関しては以下の権利があります：",
-    "your_rights_l1": "<strong>アクセス権：</strong>Kalanaアプリからいつでもすべてのデータにアクセス可能。",
+    "your_rights_l1": "<strong>アクセス権：</strong>CoBudgetアプリからいつでもすべてのデータにアクセス可能。",
     "your_rights_l2": "<strong>訂正権：</strong>個人情報を訂正または更新可能。",
     "your_rights_l3": "<strong>削除権：</strong>アカウントと関連するすべてのデータを削除可能。",
     "your_rights_l4": "<strong>エクスポート権：</strong>帳簿データを一般的な形式（CSVなど）でエクスポート可能。",
     "your_rights_l5": "<strong>同意撤回権：</strong>非要なデータ収集への同意を撤回可能。",
     "children_title": "子供のプライバシー",
-    "children_p": "Kalanaは13歳未満のお子様向けではありません。意図的に子供の個人情報を収集ことはありません。",
+    "children_p": "CoBudgetは13歳未満のお子様向けではありません。意図的に子供の個人情報を収集ことはありません。",
     "third_party_title": "サードパーティリンクとサービス",
-    "third_party_p": "Kalanaには、第三者のウェブサイトやサービスへのリンクが含まれている場合があります。このポリシーはこれらの第三者サービスには適用されません。",
+    "third_party_p": "CoBudgetには、第三者のウェブサイトやサービスへのリンクが含まれている場合があります。このポリシーはこれらの第三者サービスには適用されません。",
     "updates_title": "ポリシーの更新",
     "updates_p": "このプライバシーポリシーを定期的に更新場合があります。大きな変更がある場合は：",
     "updates_l": [
@@ -120,7 +120,7 @@
       "「最終更新日」を更新",
       "適切な状況で再同意を取得"
     ],
-    "updates_p2": "Kalanaの使用を続けることで、更新されたポリシーに同意したものとみなされます。",
+    "updates_p2": "CoBudgetの使用を続けることで、更新されたポリシーに同意したものとみなされます。",
     "contact_title": "お問い合わせ",
     "contact_p": "このプライバシーポリシーに関するご質問やご依頼は、以下まで联系我们ください：",
     "contact_email": "メール：",
@@ -130,12 +130,12 @@
     "title": "利用規約",
     "last_updated": "最終更新日：2026年5月9日",
     "service_title": "サービス説明",
-    "service_p1": "Kalanaは、Apple iCloudサービスを通じてデータ保存と同期を提供する多人共有帳簿アプリです。",
-    "service_p2": "Kalanaを使用する前に、この利用規約を注意してお読みください。Kalanaをダウンロード、インストール、または使用することで、この利用規約に拘束されることに同意したものとみなされます。",
+    "service_p1": "CoBudgetは、Apple iCloudサービスを通じてデータ保存と同期を提供する多人共有帳簿アプリです。",
+    "service_p2": "CoBudgetを使用する前に、この利用規約を注意してお読みください。CoBudgetをダウンロード、インストール、または使用することで、この利用規約に拘束されることに同意したものとみなされます。",
     "account_title": "アカウント登録と使用",
     "account_req_title": "アカウント要件",
     "account_req_l": [
-      "Kalanaの全機能を使用するには有効なApple IDが必要です",
+      "CoBudgetの全機能を使用するには有効なApple IDが必要です",
       "iCloudアカウント情報が正確、完全、最新であることを確認",
       "アカウント下のすべての活動に対して完全な責任を持ちます"
     ],
@@ -148,10 +148,10 @@
       "デバイスに適切なロック画面パスワード或いは生体認証を設定"
     ],
     "usage_title": "使用ガイドライン",
-    "usage_intro": "Kalanaは合法的な目的にのみ使用することに同意します：",
+    "usage_intro": "CoBudgetは合法的な目的にのみ使用することに同意します：",
     "usage_not_title": "以下は行えません：",
     "usage_not_l": [
-      "違法、詐欺、有害な活動のためにKalanaを使用",
+      "違法、詐欺、有害な活動のためにCoBudgetを使用",
       "他のユーザーのアカウントやデータへの不正アクセスを試みる",
       "自動化ツールでサービスを妨害或いは滥用",
       "マルウェアやウイルス spreading",
@@ -168,7 +168,7 @@
       "他のメンバーのプライバシーとデータセキュリティを尊重"
     ],
     "data_title": "データ保存と同期",
-    "data_p": "KalanaはApple CloudKitを使用してデータを保存します：",
+    "data_p": "CoBudgetはApple CloudKitを使用してデータを保存します：",
     "data_l": [
       "データは個人のiCloudアカウントに保存",
       "同步はネットワークとiCloudサービスの状態に依存",
@@ -176,20 +176,20 @@
       "重要なデータの定期バックアップをお勧めします"
     ],
     "ip_title": "知的財産権",
-    "ip_p": "Kalanaアプリ自体は知的財産権法律により保護されます。",
+    "ip_p": "CoBudgetアプリ自体は知的財産権法律により保護されます。",
     "ip_l": [
-      "Kalanaのすべての知的財産権を保留",
+      "CoBudgetのすべての知的財産権を保留",
       "授權없이コピー、修正、配布、销售禁止",
       "作成した帳簿データの所有権を保持",
       "サービス提供のために限定的なライセンスを付与"
     ],
     "availability_title": "サービスの可用性",
     "availability_change_title": "サービス変更",
-    "availability_change_p": "いつでもKalana（或いはその一部）を修正、一時停止、終了的权利を保留します。",
+    "availability_change_p": "いつでもCoBudget（或いはその一部）を修正、一時停止、終了的权利を保留します。",
     "availability_maint_title": "メンテナンス",
     "availability_maint_p": "定期或いは緊急メンテナンスを行う場合があり、サービスが一時的に利用できなくなることがあります。",
     "availability_disclaimer_title": "免責事項",
-    "availability_disclaimer_p": "Kalanaは「現状のまま」および「利用可能な状態」で提供されます：",
+    "availability_disclaimer_p": "CoBudgetは「現状のまま」および「利用可能な状態」で提供されます：",
     "availability_disclaimer_l": [
       "商品性、特定目的の適合性、非侵害の黙示的な保証",
       "サービスが中断されない、セキュリティで保護される、エラーがない保証",
@@ -199,14 +199,14 @@
     "liability_title": "責任の制限",
     "liability_p": "適用法が許容する範囲で当社の総責任は次の金額を超えないとします：",
     "liability_l": [
-      "Kalanaに対してあなたが支払った料金（該当する場合）",
+      "CoBudgetに対してあなたが支払った料金（該当する場合）",
       "または、料金未払いの場合、100ドルまたは同等の地元通貨"
     ],
     "termination_title": "アカウント終了",
     "termination_user_title": "あなたによる終了",
     "termination_user_p": "以下の方法でいつでもアカウントを終了できます：",
     "termination_user_l": [
-      "Kalanaアプリを削除",
+      "CoBudgetアプリを削除",
       "サポートチームに連絡してアカウント削除をリクエスト"
     ],
     "termination_us_title": "当社による終了",
@@ -223,7 +223,7 @@
       "アプリで更新通知を投稿",
       "適切な状況で再同意をリクエスト"
     ],
-    "policy_updates_p2": "Kalanaの使用を続けることで、更新されたポリシーに同意したものとみなされます。",
+    "policy_updates_p2": "CoBudgetの使用を続けることで、更新されたポリシーに同意したものとみなされます。",
     "applicable_law_title": "適用法",
     "applicable_law_p": "この利用規約は適用法に準拠します。紛争はまず友好协商によって解決されます。",
     "contact_title": "お問い合わせ",
@@ -238,10 +238,10 @@
     "contact_p": "上記の内容で問題が解決しない場合は、以下まで联系我们ください：",
     "contact_email": "メール：",
     "faq_title": "よくある質問 (FAQ)",
-    "faq1_q": "Kalanaのダウンロードとインストール方法は？",
-    "faq1_a": "Kalanaは現在開発中で、近日中にApp Storeで公開されます。アプリストアで「Kalana」を検索するか、公式サイトのお知らせをご確認ください。",
-    "faq2_q": "Kalanaはどのようなデバイスに対応していますか？",
-    "faq2_a1": "KalanaはiOSデバイス向けに設計されています：",
+    "faq1_q": "CoBudgetのダウンロードとインストール方法は？",
+    "faq1_a": "CoBudgetは現在開発中で、近日中にApp Storeで公開されます。アプリストアで「CoBudget」を検索するか、公式サイトのお知らせをご確認ください。",
+    "faq2_q": "CoBudgetはどのようなデバイスに対応していますか？",
+    "faq2_a1": "CoBudgetはiOSデバイス向けに設計されています：",
     "faq2_a_l1": "iPhone（iOS 17.0以降）",
     "faq2_a_l2": "iPad（iPadOS 17.0以降）",
     "faq2_a2": "Android版は開発中です。",
@@ -254,7 +254,7 @@
       "作成完了後、取引記録の追加を開始"
     ],
     "faq4_q": "他の人を帳簿に招待する方法は？",
-    "faq4_p": "KalanaはApple CloudKitの共有機能を使用してメンバーを招待します：",
+    "faq4_p": "CoBudgetはApple CloudKitの共有機能を使用してメンバーを招待します：",
     "faq4_l": [
       "共有したい帳簿を開く",
       "「メンバー」または設定アイコンをタップ",
@@ -278,12 +278,12 @@
       "<strong>ネットワーク確認：</strong>デバイスがインターネットに接続されていることを確認",
       "<strong>iCloud状態確認：</strong>「設定」>「iCloud」でiCloudサービスが無効になっていないことを確認",
       "<strong>iCloud再ログイン：</strong>再ログインで同期問題が解決する場合あり",
-      "<strong>アプリ再起動：</strong>Kalanaを完全に閉じて再起動",
+      "<strong>アプリ再起動：</strong>CoBudgetを完全に閉じて再起動",
       "<strong>システム更新：</strong>iOS/iPadOSが最新バージョンであることを確認"
     ],
     "faq6_note": "問題が解決しない場合は、サポートチームにお問い合わせください。",
-    "faq9_q": "Kalanaは有料ですか？",
-    "faq9_p": "Kalanaの基本機能は完全に無料です：",
+    "faq9_q": "CoBudgetは有料ですか？",
+    "faq9_p": "CoBudgetの基本機能は完全に無料です：",
     "faq9_l": [
       "複数の帳簿の作成与管理",
       "取引の追加、編集、削除",
